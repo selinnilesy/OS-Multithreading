@@ -10,5 +10,4 @@ A drone shall wait before takeoff until its charge is fulled to an amount of eno
 Note:  <br />
 About the unpolished details; <br />
 -Homework classes were intended to be implemented by a Mesa Monitor but thereafter semaphores revealed to be more useful in many aspects. Just ignore the monitor inheritance of classes since there is no condition variables declared in anyways. <br />
--Simulator.cpp implements all the member functions of simulation classes being written in a short time. Also some of the functions also implement the same functionalities of simulator multiple times for debugging purposes  <br />
-and remained that way afterwards, due to lack of time.<br />
+-Simulator.cpp implements all the member functions of simulation classes being written in a short time. Also some of the functions also implement the same functionalities of simulator multiple times for debugging purposes and remained that way afterwards, due to lack of time.<br />
