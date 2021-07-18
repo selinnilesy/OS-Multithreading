@@ -1,5 +1,5 @@
 # OS-Multithreading <br />
-Drone Simulation homework of CENG334, June 2021 <br />
+Shipment Simulation homework of CENG334, June 2021 <br />
 
 Hubs contain charging spaces for drones and incoming/outgoing storage spaces for senders and receivers. <br />
 Senders can deposit and receivers can take their delivery while drones are depositing packages to them simultaneously.  <br />
